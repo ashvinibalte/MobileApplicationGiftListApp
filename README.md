@@ -18,6 +18,7 @@ order to make the api calls.
 <h2><b1>Part 1, Gift Lists:</b1></h2>
 
 This screen displays a list of gift lists as shown in Figure 1(a). Please follow the steps:
+
 1. Retrieve the gift lists for the currently logged user using the “/api/giftlists/lists” API:
 a. Note that this API requires the Authorization header to include the token
 b. Make the api request and then parse the JSON response.
