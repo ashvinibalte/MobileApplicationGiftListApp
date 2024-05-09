@@ -39,6 +39,7 @@ b. Upon returning this screen refresh the list of Gift Lists by retrieving the s
 gift lists by calling the “/api/giftlists/lists” API.
 
 <h2><b1>Part 2, Create Gift List Screen:</b1></h2>
+
 This screen is a form that is used to create new gift list. This screen also maintains a list
 of products that will be added to the new gift list, please follow the steps:
 1. Retrieve the list of products using the “/api/giftlists/products” API:
